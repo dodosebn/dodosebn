@@ -1,5 +1,5 @@
-##👋 Hi there **
-Nice to meet you
+## Hi there 
+    Nice to meet you
 - I am orji Dominion Ebubennia.
 - I write HTML, Css, JavaScript and React.
  You can reach me on twitter(@dodos_ebn)
