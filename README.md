@@ -4,7 +4,7 @@
 - I write HTML, CSS, JavaScript, and React.
 
 ## Find Me on Twitter
-[![Twitter](https://img.shields.io/badge/Twitter-%40your_twitter_handle-blue?logo=twitter)](https://twitter.com/dodos_ebn)
+[![Twitter](https://img.shields.io/badge/Twitter-%40dodos_ebn-blue?logo=twitter)](https://twitter.com/dodos_ebn)
 
 **Looking forward to meeting you!**
 
