@@ -1,7 +1,7 @@
 ## Hi there 
- **Nice to meet you**
-  ##I am orji Dominion Ebubennia
-   **I write HTML, Css,JavaScript   and React**
+**Nice to meet you*
+**I am orji Dominion Ebubennia**
+**I write HTML, Css,JavaScript   and React**
      
 ## Find Me on Twitter
 [![Twitter](https://img.shields.io/badge/Twitter-%40your_twitter_handle-blue?logo=twitter)](https://twitter.com/dodos_ebn)
