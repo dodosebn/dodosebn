@@ -1,6 +1,6 @@
 ## Hi there 
  **Nice to meet you**
-  **I am orji Dominion Ebubennia**
+  ##I am orji Dominion Ebubennia
    **I write HTML, Css,JavaScript   and React**
      
 ## Find Me on Twitter
