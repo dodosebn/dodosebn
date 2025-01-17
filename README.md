@@ -1,10 +1,10 @@
 ## Hi there 
 - Nice to meet you...
 - I am Orji Dominion Ebubennia.
-- I write HTML, CSS, JavaScript, and React.
+- I write HTML, CSS, Tailwind, JavaScript, TypeScript, React js and Next js.
 
 ## Find Me on Twitter
-[![Twitter](https://img.shields.io/badge/Twitter-%40dodos_ebn-blue?logo=twitter)](https://twitter.com/dodos_ebn)
+[![Twitter](https://img.shields.io/badge/Twitter-%40dodos_ebn-blue?logo=twitter)](https://twitter.com/Learning_Dodos)
 
 **Looking forward to meeting you!**
 
