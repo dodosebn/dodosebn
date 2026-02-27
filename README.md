@@ -14,14 +14,6 @@ I love building sleek, responsive, and modern web applications with:
 
 ---
 
-## 📊 GitHub Stats
-
-![Orji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dodosebn&show_icons=true&theme=tokyonight)  
-
-## 🚀 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dodosebn&layout=compact&theme=tokyonight)  
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dodosebn&theme=tokyonight)
