@@ -1,16 +1,19 @@
-# Hi there 👋
+# Hello
 
 I'm **Orji Dominion Ebubennia**, a passionate web developer.  
-I love building sleek, responsive, and modern web applications with:
+I love building Web apps that solve my personal problems and beyond, I studied Statistics - I analyze data for fun, I also love training Models(Data Annotation).
 
-**HTML, CSS, Tailwind, JavaScript, TypeScript, React.js, Next.js, and Supabase** 🚀
+# In the web I use
+**React, Tailwind, Typescript, Express, Nest js, Tanstack Start, Postgress, Supabase etc**
+# Statisticak Packages I use
+**R, Python, SPSS, Excel**
+Naturally I don't leave problems unsolved
 
 ---
 
 ## 🌐 Connect with Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Learning_Dodos)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white)](https://orji-dominion.vercel.app/)  
+[![My Website](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white)](https://technicallydominion.space/)
 
 ---
 
