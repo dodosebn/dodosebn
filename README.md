@@ -5,9 +5,10 @@ I love building Web apps that solve my personal problems and beyond, I studied S
 
 # In the web I use
 **React, Tailwind, Typescript, Express, Nest js, Tanstack Start, Postgress, Supabase etc**
-# Statisticak Packages I use
+# Statistical Packages I use
 **R, Python, SPSS, Excel**
-Naturally I don't leave problems unsolved
+
+# Naturally I don't leave problems unsolved
 
 ---
 
@@ -25,8 +26,8 @@ Naturally I don't leave problems unsolved
 
 ## 💬 About Me
 
-I enjoy **learning new technologies, building projects, and contributing to open-source**.  
-Always excited to **collaborate, share knowledge, and grow with the community**!
+I enjoy **learning new technologies, building projects, and Training AI Models**.  
+Always excited to **collaborate, Learn and share knowledge**!
 
 ---
 
