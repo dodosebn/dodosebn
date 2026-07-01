@@ -1,14 +1,14 @@
 # Hello
 
-I'm **Orji Dominion Ebubennia**, a passionate web developer.  
-I love building Web apps that solve my personal problems and beyond, I studied Statistics - I analyze data for fun, I also love training Models(Data Annotation).
+I am **Orji Dominion** a **TypeScript Developer** who loves creating web applications that solve real-world problems, starting with my own and extending to others.
+My background is in **Statistics** and I love to analyze data just for fun to find insights that matter. I am also experienced in **data annotation** to help build and train AI models with accurate, labeled data.
 
 # In the web I use
 **React, Tailwind, Typescript, Express, Nest js, Tanstack Start, Postgress, Supabase etc**
 # Statistical Packages I use
 **R, Python, SPSS, Excel**
 
-# Naturally I don't leave problems unsolved
+# Naturally I don't leave problems unsolved !!
 
 ---
 
